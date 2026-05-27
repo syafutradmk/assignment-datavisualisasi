@@ -1,4 +1,4 @@
-# assignment-datavisualisasi
+# Retail_Sales-analysis
 Name : Ridho Syafutra Dmk
 Student Id :031202400013
 Subject : Data Visualisasi
